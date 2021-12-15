@@ -1,0 +1,1 @@
+this is an automatic privat recon and exploitation framework for triggering a firesale.
