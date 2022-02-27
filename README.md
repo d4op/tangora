@@ -1,6 +1,6 @@
 this is an automatic privat recon and exploitation framework for triggering a firesale.
 
-it create mutliple instances on all known cloud providers and attacks the following sectors:
+it creates mutliple instances on all known cloud providers all over the world and attacks the following infrastructur sectors:
 - banking
 - manufacturing
 - oil & gas
