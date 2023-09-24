@@ -29,7 +29,7 @@ The Firesale Trigger Framework is an automatic reconnaissance and exploitation t
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/firesale-trigger.git
+   git clone https://github.com/d4op/firesale-trigger.git
    ```
 
 2. Navigate to the project directory:
