@@ -69,6 +69,9 @@ The Firesale Trigger Framework supports the following cloud providers:
 - Google Cloud Platform (GCP)
 - IBM Cloud
 - Oracle Cloud
+- Linode
+- Digital Ocean
+- and much more
 
 Please ensure you have the necessary credentials and permissions to use these cloud providers.
 
