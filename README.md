@@ -51,7 +51,7 @@ The Firesale Trigger Framework is an automatic reconnaissance and exploitation t
 1. Start the Firesale Trigger Framework:
 
    ```bash
-   python firesale_trigger.py
+   python tangora.py
    ```
 
 2. Follow the on-screen prompts to select the target infrastructure sector and specify any other relevant parameters.
